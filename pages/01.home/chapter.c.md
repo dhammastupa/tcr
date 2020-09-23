@@ -1,5 +1,5 @@
 ---
-title: 'බුද්ධ ජයන්ති ත්‍රිපිටක'
+title: 'ဆဋဌသင်္ဂီတိ တေပိဋက'
 taxonomy:
     category: docs
 body_classes: 'title-center title-h1h2'
