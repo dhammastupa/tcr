@@ -1,5 +1,5 @@
 ---
-title: Mahāvibhaṅga
+title: Vibhaṅga
 taxonomy:
     category: docs
 hide_hypothesis: false
