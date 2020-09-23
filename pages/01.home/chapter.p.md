@@ -1,5 +1,5 @@
 ---
-title: 'ဆဋဌသင်္ဂီတိ တေပိဋက'
+title: 'Pāli Cannon'
 taxonomy:
     category: docs
 body_classes: 'title-center title-h1h2'
