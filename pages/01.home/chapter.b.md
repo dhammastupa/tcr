@@ -1,5 +1,5 @@
 ---
-title: 'Pāli Tipiṭaka'
+title: තිපිටක
 taxonomy:
     category: docs
 body_classes: 'title-center title-h1h2'
