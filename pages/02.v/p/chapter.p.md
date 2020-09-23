@@ -1,5 +1,5 @@
 ---
-title: 'Abhidhammapiṭaka 2'
+title: Pārājikapāḷi
 media_order: d-cover.jpg
 taxonomy:
     category: docs
