@@ -46,6 +46,7 @@
       <div id="header-wrapper">
           <div id="header">
               <a id="logo" href="{{ theme_config.home_url ?: base_url_absolute }}">{% include 'partials/logo.html.twig' %}</a>
+              {% include 'partials/langswitcher.html.twig' %}
               {% if theme_config.enable_doc_versioning %}
                 {% include 'partials/versions.html.twig' %}
               {% endif %}

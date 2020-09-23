@@ -23,7 +23,7 @@
     {% endif %}
 
     {% if show_language %}
-        <li><a href="{{ lang_url ~ uri.params }}" class="external{{ active_class }}">{{ native_name(language)|capitalize }}</a></li>
+        <li><a href="{{ lang_url ~ uri.params }}" class="internal{{ active_class }}">{{ native_name(language)|capitalize }}</a></li>
     {% endif %}
 
 {% endfor %}
