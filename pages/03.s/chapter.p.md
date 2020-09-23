@@ -1,5 +1,5 @@
 ---
-title: 'Vinayapiṭaka 2'
+title: Suttapiṭaka
 media_order: d-cover.jpg
 taxonomy:
     category: docs
