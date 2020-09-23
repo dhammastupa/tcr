@@ -1,5 +1,5 @@
 ---
-title: 'Pārājikapāḷi 2'
+title: Pācittiyapāḷi
 taxonomy:
     category: docs
 hide_hypothesis: false
