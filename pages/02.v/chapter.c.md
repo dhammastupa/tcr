@@ -1,5 +1,5 @@
 ---
-title: Vinayapiṭaka
+title: ဝိနယပိဋက
 media_order: d-cover.jpg
 taxonomy:
     category: docs
