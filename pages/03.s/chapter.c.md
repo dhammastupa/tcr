@@ -1,5 +1,5 @@
 ---
-title: ဝိနယပိဋက
+title: සුත්තපිටක
 media_order: d-cover.jpg
 taxonomy:
     category: docs
