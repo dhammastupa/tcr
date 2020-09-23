@@ -1,5 +1,5 @@
 ---
-title: วินยปิฏเก
+title: Vinayapiṭaka
 media_order: d-cover.jpg
 taxonomy:
     category: docs
