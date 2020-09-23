@@ -1,5 +1,5 @@
 ---
-title: 'ทยฺยรฏฺฐสฺส เตปิฏกํ 2'
+title: วินยปิฏเก
 media_order: d-cover.jpg
 taxonomy:
     category: docs
