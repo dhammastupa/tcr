@@ -1,5 +1,5 @@
 ---
-title: 'mh - Mahāvaggapāḷi'
+title: Mahāvaggapāḷi
 taxonomy:
     category: docs
 hide_hypothesis: false
