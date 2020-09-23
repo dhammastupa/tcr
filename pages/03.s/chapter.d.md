@@ -1,5 +1,5 @@
 ---
-title: วินยปิฏก
+title: สุตฺตปิฏก
 media_order: d-cover.jpg
 taxonomy:
     category: docs
