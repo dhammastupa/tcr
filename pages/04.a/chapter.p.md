@@ -1,5 +1,5 @@
 ---
-title: 'Suttapiṭaka 2'
+title: Abhidhammapiṭaka
 media_order: d-cover.jpg
 taxonomy:
     category: docs
