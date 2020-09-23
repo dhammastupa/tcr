@@ -6,5 +6,3 @@ taxonomy:
 body_classes: 'title-center title-h1h2'
 ---
 
-![หน้าปก](d-cover.jpg){.tc}
-
