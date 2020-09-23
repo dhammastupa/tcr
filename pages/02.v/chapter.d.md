@@ -1,5 +1,5 @@
 ---
-title: วินยปิฏเก
+title: วินยปิฏก
 media_order: d-cover.jpg
 taxonomy:
     category: docs
