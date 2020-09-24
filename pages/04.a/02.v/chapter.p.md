@@ -1,5 +1,5 @@
 ---
-title: Dhātukathā
+title: Vibhaṅga
 taxonomy:
     category: docs
 hide_hypothesis: false
