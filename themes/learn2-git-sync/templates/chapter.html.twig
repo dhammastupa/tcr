@@ -3,6 +3,7 @@
 {% block content %}
 	<div id="chapter">
     <div id="body-inner">
+			<h1 class="pl0 tc">{{ page.title }}</h1>
 			<div class="pb2">{{ page.content|raw }}</div>
 			{% for p in page.collection %}
 				<h5 class="pl0 tc">
