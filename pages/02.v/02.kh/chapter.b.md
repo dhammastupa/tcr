@@ -1,7 +1,8 @@
 ---
-title: අභිධම්මපිටක
+title: ඛන්ධක
 taxonomy:
     category: docs
+hide_hypothesis: false
 body_classes: 'title-center title-h1h2'
 ---
 
