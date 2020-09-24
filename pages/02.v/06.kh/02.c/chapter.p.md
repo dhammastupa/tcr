@@ -1,5 +1,5 @@
 ---
-title: Bhikkhunivibhaṅga
+title: Cullavagga
 taxonomy:
     category: docs
 hide_hypothesis: false
