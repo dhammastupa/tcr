@@ -1,5 +1,6 @@
 ---
-title: විභඞ්ග
+title: ဝိဘင်္ဂ
+media_order: d-cover.jpg
 taxonomy:
     category: docs
 hide_hypothesis: false
