@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Majjhimanikāya
 taxonomy:
     category: docs
 hide_hypothesis: false
