@@ -1,5 +1,5 @@
 ---
-title: Puggalapaññatti
+title: Paṭṭhāna
 taxonomy:
     category: docs
 hide_hypothesis: false
