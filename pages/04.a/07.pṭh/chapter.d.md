@@ -1,5 +1,5 @@
 ---
-title: ปฏฺาน
+title: ปฏฺฐาน
 media_order: d-cover.jpg
 taxonomy:
     category: docs
