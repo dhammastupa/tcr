@@ -1,5 +1,6 @@
 ---
-title: පරිවාර
+title: ปริวาร
+media_order: d-cover.jpg
 taxonomy:
     category: docs
 hide_hypothesis: false
