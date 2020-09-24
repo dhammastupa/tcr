@@ -1,6 +1,5 @@
 ---
-title: มหาวิภงฺค
-media_order: d-cover.jpg
+title: මහාවිභඞ්ග
 taxonomy:
     category: docs
 hide_hypothesis: false
