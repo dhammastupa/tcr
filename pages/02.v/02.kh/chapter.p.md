@@ -1,5 +1,5 @@
 ---
-title: khandhaka
+title: ඛන්ධක
 taxonomy:
     category: docs
 hide_hypothesis: false
