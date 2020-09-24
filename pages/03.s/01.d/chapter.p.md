@@ -1,5 +1,5 @@
 ---
-title: 'Dīgha Nikāya'
+title: Dīghanikāya
 taxonomy:
     category: docs
 hide_hypothesis: false
