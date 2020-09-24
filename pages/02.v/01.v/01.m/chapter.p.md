@@ -1,5 +1,5 @@
 ---
-title: මහාවිභඞ්ග
+title: Mahāvibhaṅga
 taxonomy:
     category: docs
 hide_hypothesis: false
