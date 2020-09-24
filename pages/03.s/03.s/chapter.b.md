@@ -1,0 +1,7 @@
+---
+title: අභිධම්මපිටක
+taxonomy:
+    category: docs
+body_classes: 'title-center title-h1h2'
+---
+
