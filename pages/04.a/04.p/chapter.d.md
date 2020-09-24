@@ -1,5 +1,5 @@
 ---
-title: ปุคฺคลปฺตฺติ
+title: ปุคฺคลปญฺญตฺติ
 media_order: d-cover.jpg
 taxonomy:
     category: docs
