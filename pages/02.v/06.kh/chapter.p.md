@@ -1,5 +1,5 @@
 ---
-title: 'Vibhaṅga 2'
+title: khandhaka
 taxonomy:
     category: docs
 hide_hypothesis: false
