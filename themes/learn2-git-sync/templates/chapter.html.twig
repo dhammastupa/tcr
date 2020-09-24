@@ -2,10 +2,18 @@
 
 {% block content %}
 	<div id="chapter">
-    	<div id="body-inner">
-			<p>
-				{{ page.content|raw }}
-			</p>
+    <div id="body-inner">
+			<div class="pb2">{{ page.content|raw }}</div>
+			{% for p in page.collection %}
+				<h5 class="pl0 tc">
+					<a 
+						href="{{ p.link }}"
+						style="text-decoration: none;"
+					>
+						{{ p.title }}
+					</a>
+				</h5>
+			{% endfor %}
 		</div>
-    </div>
+  </div>
 {% endblock %}
