@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Aṅguttaranikāya
 taxonomy:
     category: docs
 hide_hypothesis: false
