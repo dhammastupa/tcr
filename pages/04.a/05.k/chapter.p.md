@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Kathāvatthu
 taxonomy:
     category: docs
 hide_hypothesis: false
