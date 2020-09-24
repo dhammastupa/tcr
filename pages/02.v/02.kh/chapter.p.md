@@ -1,5 +1,5 @@
 ---
-title: ခန္ဓက
+title: Khandhaka
 media_order: d-cover.jpg
 taxonomy:
     category: docs
