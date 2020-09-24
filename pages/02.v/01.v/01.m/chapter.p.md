@@ -1,5 +1,6 @@
 ---
-title: Mahāvibhaṅga
+title: มหาวิภงฺค
+media_order: d-cover.jpg
 taxonomy:
     category: docs
 hide_hypothesis: false
