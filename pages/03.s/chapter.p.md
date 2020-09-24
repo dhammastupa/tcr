@@ -1,5 +1,5 @@
 ---
-title: สุตฺตปิฏก
+title: Suttapiṭaka
 media_order: d-cover.jpg
 taxonomy:
     category: docs
