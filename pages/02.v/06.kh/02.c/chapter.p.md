@@ -1,5 +1,5 @@
 ---
-title: Cullavagga
+title: Cūḷavagga
 taxonomy:
     category: docs
 hide_hypothesis: false
