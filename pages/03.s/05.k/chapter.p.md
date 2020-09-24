@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Khuddakanikāya
 taxonomy:
     category: docs
 hide_hypothesis: false
