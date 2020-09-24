@@ -1,7 +1,8 @@
 ---
-title: අභිධම්මපිටක
+title: චූළවග්ග
 taxonomy:
     category: docs
+hide_hypothesis: false
 body_classes: 'title-center title-h1h2'
 ---
 
