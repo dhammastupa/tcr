@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Puggalapaññatti
 taxonomy:
     category: docs
 hide_hypothesis: false
