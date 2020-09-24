@@ -1,5 +1,5 @@
 ---
-title: Parivāra
+title: Saṃyuttanikāya
 taxonomy:
     category: docs
 hide_hypothesis: false
