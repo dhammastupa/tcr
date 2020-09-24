@@ -1,5 +1,6 @@
 ---
-title: ඛන්ධක
+title: ခန္ဓက
+media_order: d-cover.jpg
 taxonomy:
     category: docs
 hide_hypothesis: false
